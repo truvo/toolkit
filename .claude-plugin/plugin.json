@@ -1,0 +1,27 @@
+{
+  "name": "truvo",
+  "displayName": "Truvo",
+  "version": "1.0.0",
+  "description": "Get real car, renters, and pet insurance quotes from 50+ carriers. Truvo is an independent insurance agency, licensed in all 50 states and D.C.",
+  "author": {
+    "name": "Truvo, Inc.",
+    "url": "https://www.truvo.com",
+    "email": "support@truvo.com"
+  },
+  "homepage": "https://www.truvo.com/ai",
+  "repository": "https://github.com/truvo/toolkit",
+  "license": "MIT",
+  "keywords": [
+    "insurance",
+    "insurance quotes",
+    "auto insurance",
+    "renters insurance",
+    "pet insurance",
+    "mcp"
+  ],
+  "icon": "./assets/truvo-icon.png",
+  "documentationUrl": "https://www.truvo.com/ai",
+  "supportUrl": "https://www.truvo.com/contact",
+  "privacyPolicyUrl": "https://www.truvo.com/privacy",
+  "termsOfServiceUrl": "https://www.truvo.com/terms"
+}

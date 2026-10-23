@@ -1,0 +1,17 @@
+{
+  "name": "truvo",
+  "owner": {
+    "name": "Truvo, Inc.",
+    "email": "support@truvo.com"
+  },
+  "metadata": {
+    "description": "Get real car, renters, and pet insurance quotes from 50+ carriers. Truvo is an independent insurance agency, licensed in all 50 states and D.C."
+  },
+  "plugins": [
+    {
+      "name": "truvo",
+      "source": "./",
+      "description": "Get real car, renters, and pet insurance quotes from 50+ carriers. Truvo is an independent insurance agency, licensed in all 50 states and D.C."
+    }
+  ]
+}

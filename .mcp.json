@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "truvo": {
+      "type": "http",
+      "url": "https://api.truvo.com/v1/mcp",
+      "headers": {
+        "Truvo-Install-Source": "plugin"
+      }
+    }
+  }
+}
